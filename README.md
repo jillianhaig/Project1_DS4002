@@ -1,5 +1,5 @@
 ## Contents ##
-This repository contains all necessary files and information to analyze 2000s-2010s animated Disney movie reviews. It contains a Data, Scripts, and Output folder where the user can find all of the csv files used to obtain the reviews, as well as scripts used for transforming and analyzing the final dataset. The repository also contains the README (this file) and the LICENSE markdown files. 
+This repository contains all the necessary files and information to analyze 2000s-2010s animated Disney movie reviews. It contains a Data, Scripts, and Output folder where the user can find all of the csv files used to obtain the reviews, as well as scripts used for transforming and analyzing the final dataset. The repository also contains the README (this file) and the LICENSE markdown files. 
 
 ## Section 1: Software and platform section 
 The Python programming language was used for all analysis and coding for this project. The VADER package needs to installed and used to analyze the reviews and obtain the sentient scores for this project. Both Mac and Windows platforms were used in this project.
