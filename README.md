@@ -6,7 +6,7 @@ The Python programming language was used for all analysis and coding for this pr
 
 ## Section 2: Map of documentation 
 The Project1_DS4002 repository contains the following folders and files:
-1. Data folder: contains the Final Datasets subfolder, where the merged and cleaned datasets (DisneyMoviesDataset.csv and FinalDisneyDataset.csv) can be found. It also contains the Individual Movie Data folder, where one can find data for each individual Disney movie utilized in the study and their sentiments, dates, and reviews. Finally, contains the Data Appendix pdf document, named DataAppendix.pdf
+1. Data folder: contains the Final Datasets subfolder, where the merged and cleaned datasets (DisneyMoviesDataset.csv and FinalDisneyDataset.csv) can be found. It also contains the Individual Movie Data folder, where one can find data for each individual Disney movie utilized in the study. Finally, the folder contains the Data Appendix pdf document, named DataAppendix.pdf
 2. OUTPUT folder: Contains png files of output from exploratory data analysis (EDA), data visualizations, and regressions. This includes any boxplots, bargraphs, and other visualizations the group has created for analysis.
 3. SCRIPTS folder: contains five ipynb files which were created by the group to investigate the research question using statistical analysis. The scripts involve data cleaning, data creation, EDA, and data analysis.
 4. README file
