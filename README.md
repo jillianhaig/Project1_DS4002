@@ -5,16 +5,12 @@ This repository contains all necessary files and information to analyze 2000s-20
 The Python programming language was used for all analysis and coding for this project. The VADER package needs to installed and used to analyze the reviews and obtain the sentient scores for this project. Both Mac and Windows platforms were used in this project.
 
 ## Section 2: A Map of your documentation 
-In this section, you should provide an outline or tree illustrating the
-hierarchy of folders and subfolders contained in your Project Folder,
-and listing the files stored in each folder or subfolder.
+The Project1_DS4002 repository contains the following folders and files:
+1. Data folder: contains the Final Datasets subfolder, where the merged and cleaned datasets (DisneyMoviesDataset.csv and FinalDisneyDataset.csv) can be found. Contains the Individual Movie Data folder, where one can find data for each individual Disney movie utilized in the study and their sentiments, dates, and reviews. Finally, contains the Data Appendix pdf document, named DataAppendix(1).pdf
+2. OUTPUT folder: Contains png files of output from exploratory data analysis (EDA), data visualizations, and regressions. This includes any boxplots, bargraphs, and other visualizations the group has created for analysis.
+3. SCRIPTS folder: contains five ipynb files which were created by the group to investigate the research question using statistical analysis. The scripts involve data cleaning, data creation, EDA, and data analysis.
+4. README file
+5. LICENSE file
 
 ## Section 3: Instructions for reproducing your results. 
-In this section, you should give explicit step-by-step instructions to
-reproduce the Results of your study. These instructions should be
-written in straightforward plain English, but they must be concise, but
-detailed and precise enough, to make it possible for an interested user
-to reproduce your results without much difficulty. N.B. This section
-will be crucial for the CS1 assignment, where you'll be required to
-reproduce the results of other groups. Therefore, make sure to
-explain this section thoroughly
+To replicate the methods and results of this study, one can find all the necessary tools and files from this github repository. After accesing the repository, the user can download all the data from the Data folder. The Dataset_Creation.ipynb file must be run first in a coding environment such as Google Colab. This file merges the individual Disney movie datasets into one cohesive dataset. Next, the DatasetCleaning.ipynb file can be run which cleans the dataset, including dropping unnecessary variables. The EDA.ipynb and EDA2.ipynb files may be run next to obtain the same results from EDA that the group did. Although not imperative to the analysis for this study, the EDA portion serves as addition context and research into the research question and dives deeper into the variables used in the dataset. Finally, the Analysis.ipynb file must be run to obtain results using statistical analysis, such as running a t-test, running a regression, and using confidence intervals.
