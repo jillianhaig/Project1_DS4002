@@ -2,7 +2,7 @@
 This repository contains all the necessary files and information to analyze 2000s-2010s animated Disney movie reviews. It contains a Data, Scripts, and Output folder where the user can find all of the csv files used to obtain the reviews, as well as scripts used for transforming and analyzing the final dataset. The repository also contains the README (this file) and the LICENSE markdown files, as well as the final presentation slides for the project. 
 
 ## Section 1: Software and platforms used 
-The Python programming language was used for all analysis and coding for this project. The VADER package needs to installed and used to analyze the reviews and obtain the sentiment scores for this project. Additional packages that need install include: pandas, datetime, matplotlib.pyplot, spicy, numpy, statsmodels, and seaborn. Both Mac and Windows platforms were used in this project.
+The Python programming language was used for all analysis and coding for this project. The VADER package needs to installed and used to analyze the reviews and obtain the sentiment scores for this project. Additional packages that need to be installed include: pandas, datetime, matplotlib.pyplot, spicy, numpy, statsmodels, and seaborn. Both Mac and Windows platforms were used in this project.
 
 ## Section 2: Map of documentation 
 The Project1_DS4002 repository contains the following folders and files:
